@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\KursachSAKOD\Debug\KursachSAKOD.exe
+C:\Users\User\source\repos\KursachSAKOD\Debug\KursachSAKOD.pdb
